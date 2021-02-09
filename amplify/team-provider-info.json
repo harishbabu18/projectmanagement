@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-projectmanagement-dev-160505-authRole",
+      "UnauthRoleArn": "arn:aws:iam::889023002124:role/amplify-projectmanagement-dev-160505-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::889023002124:role/amplify-projectmanagement-dev-160505-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-projectmanagement-dev-160505-deployment",
+      "UnauthRoleName": "amplify-projectmanagement-dev-160505-unauthRole",
+      "StackName": "amplify-projectmanagement-dev-160505",
+      "StackId": "arn:aws:cloudformation:ap-south-1:889023002124:stack/amplify-projectmanagement-dev-160505/7e393490-6ac2-11eb-b4c8-0a9b46ad5122",
+      "AmplifyAppId": "d2uuzewtgr06qr"
+    },
+    "categories": {
+      "auth": {
+        "projectmanagement1004513b": {}
+      }
+    }
+  }
+}
